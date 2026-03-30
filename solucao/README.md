@@ -45,4 +45,18 @@ terraform destroy
 - Toda configuração está concentrada em um único módulo, pois o desafio é nível iniciante.  
 - Variáveis estão separadas para facilitar reutilização.
 
+## 🔜 Próximos Passos
+
+Se você concluiu este desafio e revisou a solução, o próximo passo é avançar para:
+
+➡️ [**Desafio DevOps #01 — Nível Intermediário**](https://github.com/bfeliano/desafio-devops-01-terraform-ec2-intermediario)
+
+Nesse nível, você irá evoluir exatamente esta infraestrutura, aplicando boas práticas como:
+
+- Modularização do projeto
+- Uso de arquivos `.tfvars`
+- Variáveis mais avançadas
+- AMI dinâmica utilizando data sources
+- (Opcional) Criação de IAM Role + Instance Profile
+
 Bom estudo! 🚀🔥
