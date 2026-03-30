@@ -52,6 +52,15 @@ Antes de começar, instale:
 
 Você deve possuir também uma **conta AWS** com permissões básicas de EC2 e VPC.
 
+## 🔜 Próximos Passos
+
+Este desafio faz parte de uma trilha contínua de aprendizado DevOps.
+
+Depois de concluir este nível, você pode avançar para:
+
+➡️ [**Desafio DevOps #01 — Nível Intermediário**](https://github.com/bfeliano/desafio-devops-01-terraform-ec2-intermediario)  
+Nele você irá evoluir esta mesma infraestrutura utilizando módulos Terraform, arquivos `.tfvars`, AMI dinâmica via data source e outras boas práticas fundamentais.
+
 ## 🤝 Contribuições
 
 Pull requests com melhorias em documentação, estrutura ou sugestões para novos desafios são bem-vindos!
