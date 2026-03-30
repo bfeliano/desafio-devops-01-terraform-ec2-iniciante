@@ -30,7 +30,7 @@ resource "aws_vpc_security_group_egress_rule" "egress" {
   security_group_id = aws_security_group.web_sg.id
   cidr_ipv4         = "0.0.0.0/0"
   ip_protocol       = "-1"
-  description       = "Permitir todo o tráfego de saída"
+  description       = "Permitir todo o trafego de saida"
 }
 
 # Instância EC
