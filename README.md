@@ -13,6 +13,15 @@ A proposta deste repositório é oferecer um ambiente prático para estudo.
 👉 a pasta **desafio/** contém os arquivos para você implementar  
 👉 a pasta **solucao/** contém a implementação final
 
+## 🤝 Participe da Comunidade
+
+Tem dúvidas sobre o desafio ou quer compartilhar sua solução?  
+Entre no nosso Discord oficial:
+
+➡️ **https://discord.gg/RgcC7YytVZ**
+
+Lá você encontrará fóruns por desafio, ajuda da comunidade e novidades sobre próximos desafios DevOps.
+
 Divirta-se aprendendo DevOps com Terraform! ☁️💻🔥
 
 ## 📁 Estrutura do Repositório
